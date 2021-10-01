@@ -1,5 +1,8 @@
 # Competitive Programming Problems
 
+### What is this repository all about?
+You can contribute your solution of some exciting problems you encountered on various competitive programming websites.
+
 ### How to contribute?
 
 * Check availability of issues
